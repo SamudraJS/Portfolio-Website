@@ -1,2 +1,2 @@
-"Video" : "https://youtube.com"
-"Paper" : "https://arxiv.org"
+"Video" : "https://www.youtube.com/watch?v=Z5v3K2po9FQ"
+"Paper" : "https://doi.org/10.3390/robotics15070129"
