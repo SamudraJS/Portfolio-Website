@@ -1,0 +1,1 @@
+Bare-metal embedded systems project developing assembly firmware for the legacy 8051-architecture AT89C51 microcontroller. Engineered a custom SPI in-system programmer (ISP) using an ATmega328P host, writing timing-critical assembly code to manage hardware timers, GPIO ports, and interrupt vectors.

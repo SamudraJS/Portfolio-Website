@@ -1,0 +1,1 @@
+Finite element modeling and numerical investigation into the burst pressure enhancement of pressurized steel oil and gas pipelines using variable-angle composite overwraps. Evaluated multi-layer carbon fiber and glass fiber composites in ANSYS ACP (Pre) to determine optimal fiber orientation and hoop reinforcement under extreme pressure loading.

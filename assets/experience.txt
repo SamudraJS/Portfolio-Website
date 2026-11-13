@@ -1,0 +1,43 @@
+# Work Experience
+# You can add, edit, or remove experiences here.
+# Separate entries with '---' or a blank line.
+
+Company: Hydra
+Date: Sep 2026 – Present
+Role: Head of Hardware Engineering · Dhaka
+Description: Leading mechanical & electrical engineering teams developing smart filtration hardware and connected bottles.
+
+---
+
+Company: XENO EV
+Date: Jan 2024 – Aug 2025
+Role: Mechatronics Design Engineer · Turin & Dhaka
+Description: Core engineering team designing full electric vehicles, modular swappable connectors, and automotive battery powertrains.
+
+---
+
+Company: Bio Dynamics Lab
+Date: Sep 2024 – Oct 2026
+Role: Founding Researcher · University of Dhaka
+Description: Project lead researching bat-inspired UAV perching claw-leg mechanisms and turtle-inspired underwater robotics.
+
+---
+
+Company: Cortex AI
+Date: Feb 2024 – Present
+Role: Researcher · University of Dhaka
+Description: Research across state-of-the-art artificial intelligence, machine learning, and bio-inspired robotic control systems.
+
+---
+
+Company: MAIM Lab
+Date: Nov 2024 – Mar 2025
+Role: Undergraduate Research Assistant · University of Dhaka
+Description: Lead researcher on the Flexipede (Decipede) bio-inspired modular bipedal myriapod robot for rough terrain.
+
+---
+
+Company: Robotics Lab
+Date: Dec 2023 – Jul 2024
+Role: Undergraduate Research Assistant · University of Dhaka
+Description: Led mechanical and electrical hardware development for IHABOT2 (Intelligent Hospital Assistant Robot 2).

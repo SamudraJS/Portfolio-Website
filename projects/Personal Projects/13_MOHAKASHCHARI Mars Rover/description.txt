@@ -1,0 +1,1 @@
+Planetary exploration rover platform designed for university rover competitions. Engineered with a differential rocker-bogie passive suspension mechanism to overcome obstacles up to twice its wheel diameter, 3D printed compliant wheels with aggressive grousers, and modular payload bays.

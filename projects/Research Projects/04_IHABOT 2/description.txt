@@ -1,0 +1,1 @@
+Mechanical architecture and power distribution design for IHABOT 2, an autonomous hospital assistant mobile robot designed for practical medical support. Features a modular internal frame, differential drive chassis, computing and sensor stack bays, and payload delivery compartments for medical supplies.

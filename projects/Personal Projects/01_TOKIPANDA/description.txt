@@ -1,0 +1,1 @@
+An AI-powered companion toy powered by dual ESP32-S3 microcontrollers running embedded speech processing and LLM-driven conversational agents. Designed the custom system-on-chip PCB layout in KiCad, high-efficiency power regulation, camera and audio codecs, and compact differential mobile drive base.

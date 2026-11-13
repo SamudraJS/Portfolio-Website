@@ -1,0 +1,1 @@
+Mechanical kinematic automaton exploring rotary-to-linear and reciprocating motion translation. Uses custom-profiled eccentric cams and spring-loaded followers to animate multi-degree-of-freedom character motion from a single hand crank input.

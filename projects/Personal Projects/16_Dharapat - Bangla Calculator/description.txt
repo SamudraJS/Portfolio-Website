@@ -1,0 +1,1 @@
+Custom electronic desk calculator designed with a native Bengali numeral interface and typography. Integrates mechanical keypad switches, an OLED screen rendering Bengali digit fonts, and an embedded microcontroller firmware executing multi-digit arithmetic operations.

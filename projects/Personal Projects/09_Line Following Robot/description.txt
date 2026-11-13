@@ -1,0 +1,1 @@
+Autonomous high-speed line following robot equipped with a high-density infrared phototransistor array, custom PID steering algorithm, and low-center-of-gravity chassis. Tuned for rapid trajectory corrections and stable intersection traversal on complex competitive tracks.

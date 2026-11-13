@@ -1,0 +1,1 @@
+Chassis architecture, structural packaging, and mechanical sub-assemblies for lightweight electric mobility platforms. Developed lightweight tubular frames, battery tray mounts, suspension linkages, and conducted static structural FEA to ensure rigidity, operator safety, and manufacturing efficiency.

@@ -1,0 +1,6 @@
+Embedded Systems
+ESP32-S3
+PCB Design (KiCad)
+Edge AI & Audio
+Mobile Robotics
+DFM

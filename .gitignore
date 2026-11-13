@@ -1,0 +1,16 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Keep data.js — it is committed so the site works even before the
+# GitHub Action runs, and so you can preview locally.

@@ -1,0 +1,1 @@
+Custom interactive dot-matrix display system designed for electric vehicles to facilitate vehicle-to-pedestrian (V2P) and vehicle-to-vehicle (V2V) visual messaging. Implemented high-refresh LED driving using the HUB75 protocol, designed custom power regulator circuits, and engineered weather-sealed automotive housings.

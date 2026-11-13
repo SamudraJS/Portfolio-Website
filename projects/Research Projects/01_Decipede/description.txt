@@ -1,0 +1,1 @@
+A bio-inspired, modular myriapod robot built to traverse rough, unstructured terrain. Each identical segment couples drive and compliance, so the body conforms to obstacles while a single control policy scales across any number of legs.

@@ -1,0 +1,1 @@
+A bio-inspired underwater swimming robot featuring a novel pectoral fin flapping mechanism operated by a minimal actuator configuration. Developed at the Bio Dynamics Lab through kinematic modeling, ANSYS CFD hydrodynamic drag optimization, Webots multi-body physics simulation, and real-world underwater swimming and load cell thrust validation tests.

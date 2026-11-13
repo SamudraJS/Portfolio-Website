@@ -1,0 +1,1 @@
+Custom 6-DOF navigation controller designed to streamline 3D viewport navigation in CAD suites such as Autodesk Fusion and SolidWorks. Driven by an RP2040 microcontroller with custom analog joystick sensor filtering, ergonomic 3D printed palm rest, and native USB HID interface.

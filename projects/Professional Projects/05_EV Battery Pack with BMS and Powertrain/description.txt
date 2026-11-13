@@ -1,0 +1,1 @@
+Modular lithium-ion automotive battery enclosure with integrated Battery Management System (BMS) and powertrain electronics. Engineered thermal dissipation paths, cell-spacing retention matrices, busbar interconnects, and high-voltage safety isolation conforming to automotive standards.

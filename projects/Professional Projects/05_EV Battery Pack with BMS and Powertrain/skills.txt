@@ -1,0 +1,5 @@
+Battery Design
+BMS Integration
+Thermal Management
+High Voltage Safety
+SolidWorks

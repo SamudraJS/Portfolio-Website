@@ -1,0 +1,1 @@
+Remote-controlled robotic soccer athlete designed for university robotics tournaments. Engineered with a low-slung high-traction four-wheel drivetrain, solenoid-actuated ball kicker mechanism, protective polycarbonate shell, and high-current power distribution system.

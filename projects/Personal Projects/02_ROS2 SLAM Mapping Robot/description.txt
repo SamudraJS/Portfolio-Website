@@ -1,0 +1,1 @@
+Differential-drive autonomous mapping robot built on ROS2 (Jazzy) and Raspberry Pi. Utilizes an RPLidar A1 laser scanner to generate real-time 2D occupancy grid maps via Cartographer/SLAM Toolbox. Fully modeled and simulated in Gazebo with teleoperation and live laser scan point-cloud visualization in RViz2.

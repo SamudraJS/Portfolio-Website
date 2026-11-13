@@ -1,0 +1,2 @@
+"Video" : "https://youtube.com"
+"Paper" : "https://arxiv.org"

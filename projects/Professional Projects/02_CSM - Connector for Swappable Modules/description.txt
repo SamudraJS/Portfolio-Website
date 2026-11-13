@@ -1,0 +1,1 @@
+Electro-mechanical docking connector developed for modular electric vehicles, allowing headlights, displays, and sensory modules to be hot-swapped in seconds. Incorporates spring-loaded high-current electrical contacts, weatherproofing seals, and a self-aligning cam latch mechanism validated under high-stress FEA simulation.

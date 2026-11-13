@@ -1,0 +1,5 @@
+8051 Assembly
+AT89C51
+SPI Communication
+Bare-Metal Programming
+Hardware Flashing

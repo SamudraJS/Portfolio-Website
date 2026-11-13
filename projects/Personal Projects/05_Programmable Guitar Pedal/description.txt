@@ -1,0 +1,1 @@
+Digital programmable guitar multi-effects pedal engineered around the Raspberry Pi RP2040 and an SGTL5000 stereo audio codec. Includes TL072 low-noise operational amplifier input conditioning, 24-bit audio ADC/DAC processing, programmable DSP effects algorithms, and custom PCB layout in KiCad.

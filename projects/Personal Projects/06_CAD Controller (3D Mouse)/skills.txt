@@ -1,0 +1,6 @@
+RP2040
+USB HID
+Ergonomic CAD Design
+3D Printing
+Embedded C
+Hardware Prototyping

@@ -1,0 +1,1 @@
+Compact handheld retro game console featuring an I2C OLED graphical screen, tactile four-button direction pad, action buttons, and buzzer audio. Powered by an embedded ATmega micro-architecture with custom-coded sprite rendering engines and games written in Arduino C/C++.

@@ -1,0 +1,6 @@
+ROS2 (Jazzy)
+SLAM & Navigation
+RPLidar A1
+Gazebo & RViz2
+Raspberry Pi
+Python & C++
