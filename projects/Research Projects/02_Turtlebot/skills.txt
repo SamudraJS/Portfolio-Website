@@ -1,7 +1,6 @@
-Bio-inspired Robotics
 Mechanism Design
 CFD Simulation
 ANSYS
 Webots
-Underwater Robotics
-Load Cell Testing
+Mujoco
+
